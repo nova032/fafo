@@ -1,5 +1,7 @@
-
-
+---
+title: <% tp.file.title %>
+draft: false
+tags:
 ---
 
 ### 1. **Mindset: Curiosity Over Perfection**
