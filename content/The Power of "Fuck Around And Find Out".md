@@ -3,6 +3,7 @@ title: <% tp.file.title %>
 draft: false
 tags:
 ---
+# The Power of "Fuck Around and Find Out"
 
 ### 1. **Mindset: Curiosity Over Perfection**
 
