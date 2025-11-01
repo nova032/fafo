@@ -2,6 +2,7 @@
 title: "<% tp.file.title %>"
 draft: false
 tags:
+published: Nov 1, 2025
 ---
 # The Power of "Fuck Around and Find Out"
 
